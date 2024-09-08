@@ -4,6 +4,7 @@ tags:
   - cheatsheet
   - netcat
 ---
+Netcat (nc) is a powerful tool often used for various networking tasks, including creating reverse shells. Stabilizing these shells is important for maintaining control and usability. Below are common techniques and commands to stabilize a Netcat reverse shell.
 
 ## 1. Basic Reverse Shell
 

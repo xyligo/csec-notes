@@ -4,6 +4,7 @@ tags:
   - socat
   - cheatsheet
 ---
+Socat (SOcket CAT) is a versatile networking tool that can create bidirectional data transfers over various types of communication channels. Below are common commands and usage scenarios for Socat.
 
 ## 1. Basic Commands
 
