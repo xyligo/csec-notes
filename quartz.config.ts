@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Xyligo CSec Notes",
+    pageTitle: "🖥️ Xyligo.dev",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Titillium Web",
+        body: "Titillium Web",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
@@ -39,11 +39,11 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#090F13",
+          lightgray: "#09191f",
           gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
+          darkgray: "#7b97aa",
+          dark: "#84a59d",
           secondary: "#7b97aa",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
